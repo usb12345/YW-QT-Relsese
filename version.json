@@ -1,7 +1,7 @@
 {
   "version": "1.14.0",
-  "url": "https://github.com/usb12345/YW-QT-Relsese/releases/download/v1.14.0/IMUStudio_v1.14.0.zip",
-  "sha256": "",
+  "url": "https://raw.githubusercontent.com/usb12345/YW-QT-Relsese/main/IMUStudio_v1.14.0.zip",
+  "sha256": "8619f98b810eab242e598b83d535d0fae3e15e50a259ea26725db37df183f9b2",
   "notes": "\u4fee\u590d\u5df2\u77e5\u95ee\u9898\uff0c\u4f18\u5316\u8fde\u63a5\u7a33\u5b9a\u6027\u3002",
   "force": false
 }
