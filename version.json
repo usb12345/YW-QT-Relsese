@@ -1,7 +1,7 @@
 {
-  "version": "1.14.1",
-  "url": "https://raw.githubusercontent.com/usb12345/YW-QT-Relsese/main/IMUStudio_v1.14.1.zip",
-  "sha256": "61c401f007b008d6d3d0f08a188e8e16e0afabb7a978d2b51efca3e810623706",
-  "notes": "\u5b9e\u73b0\u4e0a\u4f4d\u673a\u81ea\u52a8\u66f4\u65b0\uff1a\u4e0b\u8f7d\u540e\u53ef\u81ea\u52a8\u9000\u51fa\u3001\u89e3\u538b\u8986\u76d6\u5e76\u91cd\u542f\u65b0\u7248\u672c\u3002",
-  "force": false
+    "version":  "1.14.3",
+    "url":  "https://raw.githubusercontent.com/usb12345/YW-QT-Relsese/main/YWsensorTool_v1.14.3.zip",
+    "sha256":  "2e475a27ab583e0980def61ecf038a08ee61e8d5c10dcb5fe4e2494d89b65e7f",
+    "notes":  "这里写更新说明",
+    "force":  false
 }
